@@ -8,6 +8,7 @@
         <item name="colorAccent">@color/colorAccent</item>
         <!-- TODO (6) Add a theme for the preference -->
         <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
+        
     </style>
 
 </resources>
